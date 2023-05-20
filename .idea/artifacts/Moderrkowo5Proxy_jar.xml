@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Moderrkowo5Proxy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Moderrkowo5Proxy_jar</output-path>
+    <root id="archive" name="ModerrkowoProxy.jar">
+      <element id="module-output" name="Moderrkowo5Proxy" />
+    </root>
+  </artifact>
+</component>
